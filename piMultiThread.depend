@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457659940 source:/home/hra/tmp/piMultiThread/piMultiThread.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
